@@ -1,3 +1,3 @@
 # my-beauty
 
-![20210903.jpg](imgs/20210903.jpg)
+![20210906.jpg](imgs/20210906.jpg)
